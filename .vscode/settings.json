@@ -1,8 +1,9 @@
 {
     "gitdoc.enabled": true,
-    "gitdoc.ai.enabled": false,
+    "gitdoc.ai.enabled": true,
     "gitdoc.ai.model": "gemini-1.5-pro",
     "gitdoc.ai.useEmojis": true,
     "gitdoc.autoCommitDelay": 3000,
-    "gitdoc.autoPullDelay": 3000
+    "gitdoc.autoPullDelay": 3000,
+    "gitdoc.ai.customInstructions": "Use Conventional Commits; keep messages concise"
 }
