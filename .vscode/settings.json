@@ -1,6 +1,6 @@
 {
     "gitdoc.enabled": true,
-    "gitdoc.ai.enabled": true,
+    "gitdoc.ai.enabled": false,
     "gitdoc.ai.model": "gemini-1.5-pro",
     "gitdoc.ai.useEmojis": true,
     "gitdoc.autoCommitDelay": 3000,
